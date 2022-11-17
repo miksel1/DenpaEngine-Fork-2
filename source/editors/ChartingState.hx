@@ -483,8 +483,8 @@ class ChartingState extends MusicBeatState
 		\nQ/E - Change Note Sustain Length
 		\nSpace - Stop/Resume Song
 		\nLeft Bracket / Right Bracket - Change Playback Rate
-		\n(Hold) Alt + Bracket - Reset Playback Rate";
-		\n(Hold) Right Mouse - Place notes under your cursor, AKA drawing, or whatever.
+		\n(Hold) Alt + Bracket - Reset Playback Rate
+		\n(Hold) Right Mouse - Place notes under your cursor, AKA drawing, or whatever.";
 
 		var tipTextArray:Array<String> = text.split('\n');
 		for (i in 0...tipTextArray.length) {
