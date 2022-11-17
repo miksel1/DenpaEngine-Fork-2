@@ -1,0 +1,1 @@
+This is where your dialogue character .pngs, .xmls, and .jsons go.

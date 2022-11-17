@@ -1,0 +1,1 @@
+This is where your .lua files for note types go.
